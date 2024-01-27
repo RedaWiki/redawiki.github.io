@@ -1,7 +1,16 @@
-import { defineConfig } from 'vitepress'
+import { HeadConfig, defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = []
+
+    head.push(['meta', { property: 'og:image', content: "https://redawiki.github.io/logo.gif"}])
+    head.push(['meta', { name: 'theme-color', content: '#bd34fe' }])
+    
+    return head
+  },
+  cleanUrls: true,
   title: "RedaWiki",
   description: "Appunti incredibili",
   themeConfig: {
