@@ -22,7 +22,7 @@ export default defineConfig({
     sidebar: {
     '/categorie': [
         {
-            text: 'Categorie 📚',
+            text: 'Categorie 🗂️',
             collapsed: false,
             items: [
             { text: 'Appunti di italiano 📚', link: '/italiano/verifica-2/leopardi' },
