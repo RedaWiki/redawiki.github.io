@@ -15,23 +15,47 @@ export default defineConfig({
   description: "Appunti incredibili",
   themeConfig: {
     logo: '/logo.gif',
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+    sidebar: {
+    '/categorie': [
+        {
+            text: 'Categorie 📚',
+            collapsed: false,
+            items: [
+            { text: 'Appunti di italiano 📚', link: '/italiano/verifica-2/leopardi' },
+            { text: 'Appunti di storia 📜', link: '/storia/verifica-2/3-guerra-di-indipendenza' }
+            ]
+        } 
     ],
+    '/italiano/': [
+        {
+        text: 'Verifica 2 ✏️',
+        collapsed: false,
+        items: [
+            { text: 'Giacomo Leopardi 😭', link: '/italiano/verifica-2/leopardi' },
+        ]
+        } 
+    ],
+    '/storia/': [
+        {
+          text: 'Verifica 2 ✏️',
+          collapsed: false,
+          items: [
+            { text: '3° Guerra di indipendenza ⚔️', link: '/storia/verifica-2/3-guerra-di-indipendenza' },
+          ]
+        } 
+      ]
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/RedaWiki/redawiki.github.io' }
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 })
