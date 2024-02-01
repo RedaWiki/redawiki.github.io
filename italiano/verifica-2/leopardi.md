@@ -24,7 +24,7 @@ Leopardi diede un titolo anche a questo momento della sua vita: "Dal bello al ve
 
 Tra il 1819-1820 Leopardi innaugura una nuova stagione poetica che avrà alle sue basi due tipologie di testi: 
 
-Lo zibaldone (Prosaica) e L'infinito (Poetica):
+Lo zibaldone (Prosaica) e `L'infinito (Poetica) (facente parte dei Piccoli Idilli)`:
 Lo zibaldone è un opera ampia in cui Leopardi presenta il suo pensiero e la visione della sua realtà e i suoi sviluppi.
 La lettura dello zibaldone è importante per capire lo stile di scrittura e di composizione di Leopardi.
 
@@ -33,38 +33,39 @@ Rimase deluso per Roma:
 - Dava un idea di ampia ricchezza ed esuberanza e non era adatta al suo animo.
 - Culturalmente è legata al passato
 
-1823 torna a Recanati e inizia a comporre le "Operette Morali" e inserisce una volta il suo pensiero riguardo all' espressione del pessimismo.
+1823 torna a Recanati e inizia a comporre le "Operette Morali" e inserisce il suo pensiero riguardo all' espressione del pessimismo.
 Questo momento coincide con un periodo di crisi di ispirazione poetica con Leopardi e cesserà di scrivere in poesia.
 
 1825 Gli viene offerto un lavoro da un'importante casa editrice milanese (Stella). Leopardi accettò e iniziò un periodo di grande cambiamenti e viaggi (Milano, Bologna, Firenze, Pisa) ed entrerà in contatto con diverse culture.
-Tra il 1827-1828 (mentre era a Pisa) Leopardi ha una ripresa fisica dai suoi mali e riprende la sua ispirazione poetica, innaugurando ancora una volta una nuova fase nella sua produzione letteraria poetica attraverso i "Grandi idilli" (il più popolare è "A silvia").
+Tra il 1827-1828 (mentre era a Pisa) Leopardi ha una `ripresa fisica dai suoi mali` e riprende la sua ispirazione poetica, innaugurando ancora una volta una nuova fase nella sua produzione letteraria poetica attraverso i "Grandi idilli" (il più popolare è "A silvia").
 
 1828 A causa della sua salute cagionevole è costretto a ritornare a Recanati dove ci resterà per un anno e mezzo, 16 mesi che lui definisce 16 mesi di "notte orribile" perchè è come ritornare in un ambiente chiuso e pesante.
 Dopo questi 16 mesi c'è un periodo di ripresa e verrà contattato da dei suoi amici fiorentini che gli offrono un nuovo lavoro, questa volta Leopardi lascerà per sempre Recanati.
 
 Raggiunge Firenze e poi si sposta a Napoli. Tra queste città conosce molte persone tra cui una ragazza (Fanny Targioni Tozzetti) di cui se ne innamorerà.
-Questo rapporto però lasciò una delusione amoroso e lascerà un vuoto a Leopardi, consendendogli però di produrre nuovo materiale poetico facendo nascere un nuovo ciclo di poesie chiamato "Ciclo di Aspasia".
+Questo rapporto però lasciò una delusione amorosa e lascerà un vuoto a Leopardi, consentendogli però di produrre nuovo materiale poetico facendo nascere un nuovo ciclo di poesie chiamato "Ciclo di Aspasia".
 
 Legò anche con il napoletano Antonio Ranieri con cui si trasferisce a Napoli a vivere il resto della sua vita.
 Nel 14 giugno 1837 Leopardi muore.
 
-## 1° Teoria Leopardiana del Piacere (Pessimismo Storico)
+## Teorie
+### 1° Teoria Leopardiana del Piacere (Pessimismo Storico)
 La teoria alla base descrive che l'uomo è infelice di base perchè i piaceri che incontra nel suo mondo sono piaceri limitati e con confini.
-La naura, secondo lui, è potenza creatrice e la definisce "benigna" perchè ha dato la possibilità all'uomo di superare nella propria testa di superare i limiti tramite l'immaginazione.
+La natura, secondo lui, è potenza creatrice e la definisce "benigna" perchè ha dato la possibilità all'uomo di superare nella propria testa i limiti tramite l'immaginazione.
 
 Mette a confronto il mondo antico e moderno, descrivendo come queste due parti utilizzino l'immaginazione in modo diverso:
 Il mondo antico viveva in una sorta di ignoranza, portandolo inevitabimente a immaginare (essendo meno consapevole dei limiti).
 Al contrario il mondo moderno non la usa essendo consapevole dei limiti (ad eccezione dei bambini).
 
-## 2° Teoria Leopardiana del Piacere
+### 2° Teoria Leopardiana del Piacere
 Leopardi ad un certo punto realizza che la natura non è così "benigna" ma al contrario gli appare fredda e distaccata, sembra che lo metta davanti a difficoltà che non possono essere superate.
 E' quindi convinto che esiste il "fato", che è come un'entità esterna alla natura ed è il nemico principale dell'umanità e agisce contro i suoi piani.
 Secondo lui il fato stà sopra agli dei.
 
-## 3° Teoria Leopardiana del Piacere (Pessimismo cosmico)
+### 3° Teoria Leopardiana del Piacere (Pessimismo cosmico)
 Realizza che l'antagonista diretta dell'uomo è la natura stessa, verrà quindi chiamata "matrigna".
 Secondo lui l'uomo ha sempre vissuto nell'infelicità (anche nell'antichità).
 
-## Teoria del vago e dell' indefinito
+### Teoria del vago e dell' indefinito
 Una sensazione visiva e uditiva non definita riesce ad attivare nell'uomo l'immaginazione
 
