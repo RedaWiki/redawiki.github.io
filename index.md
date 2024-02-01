@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "RedaWiki"
   text: "Appunti incredibili"
-  tagline: Appunti pazzeschi pazzurdi
+  tagline: "Season 1: My fella leopardi's sad 😭"
   image:
     src: /logo.gif
     alt: VitePress

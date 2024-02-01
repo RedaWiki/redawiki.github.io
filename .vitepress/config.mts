@@ -14,7 +14,7 @@ export default defineConfig({
   title: "RedaWiki",
   description: "Appunti incredibili",
   themeConfig: {
-    logo: '/logo.gif',
+    logo: '/favicon.ico',
     nav: [
       { text: 'Home', link: '/' },
     ],
