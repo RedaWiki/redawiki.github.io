@@ -49,7 +49,9 @@ Legò anche con il napoletano Antonio Ranieri con cui si trasferisce a Napoli a 
 Nel 14 giugno 1837 Leopardi muore.
 
 ## Teorie
-### 1° Teoria Leopardiana del Piacere (Pessimismo Storico)
+
+### Teoria Leopardiana del piacere
+#### 1° Fase della Teoria Leopardiana del Piacere (Pessimismo Storico)
 La teoria alla base descrive che l'uomo è infelice di base perchè i piaceri che incontra nel suo mondo sono piaceri limitati e con confini.
 La natura, secondo lui, è potenza creatrice e la definisce "benigna" perchè ha dato la possibilità all'uomo di superare nella propria testa i limiti tramite l'immaginazione.
 
@@ -57,12 +59,12 @@ Mette a confronto il mondo antico e moderno, descrivendo come queste due parti u
 Il mondo antico viveva in una sorta di ignoranza, portandolo inevitabimente a immaginare (essendo meno consapevole dei limiti).
 Al contrario il mondo moderno non la usa essendo consapevole dei limiti (ad eccezione dei bambini).
 
-### 2° Teoria Leopardiana del Piacere
+#### 2° Fase della Teoria Leopardiana del Piacere
 Leopardi ad un certo punto realizza che la natura non è così "benigna" ma al contrario gli appare fredda e distaccata, sembra che lo metta davanti a difficoltà che non possono essere superate.
 E' quindi convinto che esiste il "fato", che è come un'entità esterna alla natura ed è il nemico principale dell'umanità e agisce contro i suoi piani.
 Secondo lui il fato stà sopra agli dei.
 
-### 3° Teoria Leopardiana del Piacere (Pessimismo cosmico)
+#### 3° Fase della Teoria Leopardiana del Piacere (Pessimismo cosmico)
 Realizza che l'antagonista diretta dell'uomo è la natura stessa, verrà quindi chiamata "matrigna".
 Secondo lui l'uomo ha sempre vissuto nell'infelicità (anche nell'antichità).
 
