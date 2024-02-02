@@ -1,3 +1,7 @@
+::: warning
+Questi appunti non sono completi, manca una parte sostanziale ancora da stilare.
+:::
+
 # 3° Guerra di indipendenza
 ## Introduzione
 17 Marzo 1861 Viene ufficializzato il nuovo stato italiano (Il regno di italia), guidato da Vittoio Emanuele II.
@@ -57,7 +61,3 @@ Nel 1866 in Italia Garibaldi tenta di entrare nei territori pontifici con il suo
 Nel 20 Settembre 1870 l'Italia fece una breccia all'interno di Roma chiamata la "Breccia di Porta Pia" conquistandola. 
 Il pontefice si rinchiuse all'interno del Castel Sant' Angelo rifiutando di collaborare con l'Italia.
 Roma divenne la capitale.
-
-::: warning
-Parte mancante di appunti non ancora aggiunta.
-:::
