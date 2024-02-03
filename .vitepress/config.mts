@@ -2,14 +2,21 @@ import { HeadConfig, defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  transformHead: ({ pageData }) => {
-    const head: HeadConfig[] = []
-
-    head.push(['meta', { property: 'og:image', content: "https://redawiki.github.io/logo.gif"}])
-    head.push(['meta', { name: 'theme-color', content: '#bd34fe' }])
-    
-    return head
-  },
+  head: [
+    [
+        'meta', 
+        {property: 'og:image', content: 'https://redawiki.github.io/logo.gif'}
+    ],
+    [
+        'meta', 
+        {name: 'theme-color', content: '#bd34fe'}
+    ],
+    [
+        'script',
+        { type: 'text/javascript' },
+        `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "kw2k0ehuxl");`
+    ]
+  ],
   cleanUrls: true,
   title: "RedaWiki",
   description: "Appunti incredibili",
