@@ -1,3 +1,7 @@
+::: info ℹ INFO
+Questi appunti non comprendono i testi di Giacomo Leopardi
+:::
+
 # Giacomo Leopardi
 ## Biografia
 1798 nasce Giacomo Leopardi (Marche, Recanati), epoca a cavallo tra l'illuminismo e classicismo da una parte e dal romanticismo dall'altra

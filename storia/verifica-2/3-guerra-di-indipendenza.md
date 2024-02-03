@@ -1,4 +1,4 @@
-::: warning
+::: warning ⚠ ATTENZIONE
 Questi appunti non sono completi, manca una parte sostanziale ancora da stilare.
 :::
 
