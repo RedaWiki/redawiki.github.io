@@ -10,7 +10,7 @@ E' una monarchia parlamentare.
 Cavour è ruscito a tenere saldo un governo longevo all'interno del parlamento italiano.
 
 Qualche settimana dopo la proclamazione dell'unità d'italia Cavour muore, lasciando un'eredità governativa.
-Dopo la morte di cavour diventerà importante l'azione della Destra Storica (di Cavour) e Sinistra Storica.
+Dopo la morte di Cavour diventerà importante l'azione della Destra Storica (di Cavour) e Sinistra Storica.
 La Destra storica mantiene la sua maggioranza e continuerà a governare fino al 1876. Si farà promotrice di determinate riforme.
 
 Uno dei più importanti esponenti della Destra storica fu Marco Minghetti che sostituì Cavour e la guida della Destra storica.
@@ -58,6 +58,47 @@ Nel 1870-1871 nasce il Primo Reich (impero).
 ## Roma capitale
 Nel 1866 in Italia Garibaldi tenta di entrare nei territori pontifici con il suo esercito infrangendo la Convenzione di Settembre convinto che i Francesi avessero ritirato le truppe, non avvenne nessuno scontro ma entrambe hanno violato l'accordo.
 
-Nel 20 Settembre 1870 l'Italia fece una breccia all'interno di Roma chiamata la "Breccia di Porta Pia" conquistandola. 
-Il pontefice si rinchiuse all'interno del Castel Sant' Angelo rifiutando di collaborare con l'Italia.
-Roma divenne la capitale.
+Nel 20 Settembre 1870 l'Italia fece una breccia con un esercito di bersaglieri all'interno di Roma chiamata la "Breccia di Porta Pia" conquistandola.
+Roma viene annessa al regno di Italia e divenne la capitale.
+
+Il pontefice Pio IX si rinchiuse all'interno del Castel Sant' Angelo rifiutando di collaborare e venire a patti col regno d'Italia.
+Il regno di Italia nonostante la non collaborazione del pontefice stabilisce delle regole in via unilaterale (solo da parte del regno d'Italia) ovvero la "Legge delle Guarentigie" (Garanzie)
+
+Sono delle norme giuridiche secondo cui:
+- Il pontefice resta a capo della chiesa con l'impegno di una rendita (mantenimento) annua a spese dello stato italiano.
+- Roma e i territori esterni appartenenti al papa vengono acquisiti al regno d'Italia.
+
+Il papa non d'accordo interviene emanando un suo provvedimento chiamato "Non Expedit" (Non interessa/Non conviene) che invita il mondo cattolico italiano a sottrarsi ad ogni attività politica.
+
+La maggior parte dei politici italiani era di religione cattolica, quindi si apre un divario tra coloro che seguono le volontà del pontefice e coloro che cercano una mediazione:
+Il "Non Expedit" perde validità e si ritorna alla piena attività politica dello stato italiano.
+## L'Ascesa della Sinistra Storica e i suoi obbiettivi
+La politica di Minghetti subisce un colpo d'arresto a causa di alcuni provvedimenti sul funzionamento dei trasporti (dei treni) poichè la cattiva gestione della viabilità fece perdere tanti voti alla Destra Storica.
+Nel 1876 la Destra Storica perde la maggioranza e inizia una nuova epoca politica italiana con la Sinistra Storica con esponente Agostino De Pretis che diventa capo di governo.
+
+La Sinistra Storica ha 4 obbiettivi:
+### Istruzione
+Nel 1877 vengono promulgate le "Leggi Coppino" che rendono obbligatoria l'istruzione fino alla seconda elementare inclusa dando un' opportunità ai lavoratori (con le scuole serali) di raggiungere l'alfabetizzazione
+### Riforma elettorale
+Nel 1882 si prevedeva che l'elettorato attivo scendesse dai 25 ai 21 anni allargando l'elettorato, e si apriva il permesso di votare a tutti coloro che fossero arrivati alla seconda elementare. 
+### Economia
+Nel 1887 Iniziò una politica economica protezionista cioè il mercato è controllato dallo stato, le merci di importazione vengono tassate (attraverso dazi doganali) aumentando il prezzo d'acquisto ma favorendo il "made in italy"
+### Politica Estera
+Gli estremisti della Sinistra Storica ambiscono alle "terre irredente" cioè quei territori non ancora sottratti all'Austria (Trentino, Friuli Venezia Giulia)
+## Nascita del partito centrale
+Cominciano i dissapori tra gli estremisti di Destra (Grandi conservatori, aristocratici, legati al potere della chiesa) e quelli di Sinistra (Radical-democratici ovvero coloro che volevano la democrazia totale dello stato italiano).
+Agostino De Pretis e Minghetti decidono di dare avvio ad una politica interna chiamata "Trasformismo", dove lati moderati di Sinistra e Destra Storica convergono in unico "partito centrale" che si contrappone agli ideologismi estremi di Destra e Sinistra
+
+Con questo nuovo partito centrale nasce nel 1882 un accordo difensivo interno con Germania, Austria e Italia chiamato "Triplice Alleanza"
+Se una delle tre potenze avesse dovuto dichiarare guerra ad un altro stato avrebbe dovuto consultarsi con le altre due alleate.
+## Etiopia
+Il governo dell'italia è in mano alla Sinistra storica con a capo Agostino De Pretis. Si deve a lui una nuova politica coloniale italiana nel nord africa e della triplice alleanza. Non riuscirà mai a concludere questa politica coloniale per causa della sua morte.
+
+Francesco Crispi, il suo successore, la continuò. Faceva parte di una sinistra radicale e democratica.
+Grazie ai suoi precedenti storici era anche stimato dal mondo dell'estrema sinistra per il suo passato garibaldino, non solo era anche stimato dal centro sinistra (banchieri, economi, etc...).
+Portò quindi avanti una politica economica (tasse, trbuti, etc...) e una politica militare(aumentò le spese necessarie in campo militare) che però risultò troppo dispendiosa, perdendo molti elettori.
+
+Nel 1891 il governo Crispi cade per poi ritornare nel 1893.
+Durante questo periodo il governo viene affidato a Giovanni Giolitti, che imposta una riforma economica ma non fa in tempo ad applicarla perchè venne coinvolto nello scandalo della banca romana. Vennero scoperti dei traffici economici illegali della banca romana fatti da molti politici tra cui Giovanni Giolitti.
+
+Francesco Crispi porterà la guerra in africa facendo perdere l'italia nella guerra di Etiopia, facendo cadere dinuovo il governo.
