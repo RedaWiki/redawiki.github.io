@@ -1,5 +1,5 @@
 # 3° Guerra di indipendenza
-## Introduzione
+## Introduzione 🚀
 17 Marzo 1861 Viene ufficializzato il nuovo stato italiano (Il regno di italia), guidato da Vittoio Emanuele II.
 E' una monarchia parlamentare.
 
@@ -15,7 +15,7 @@ Era costituita da persone rappresentanti del popolo in particolare dell'aristocr
 La Sinistra storica invece era la voce della parte restante della popolazione, piccole imprese, degli operai e dei contadini.
 
 In totale rappresentavano un elettorato del 2%.
-## Obbiettivi della Destra Storica
+## Obbiettivi della Destra Storica 👉💡
 La Destra storica ha un unico obbiettivo: iniziano un operato di Piemontizzazione, accentrando il potere nello stato medesimo.
 Il documento chiamato "Statuto Albertino" dal Regno di Sardegna viene quindi applicato in maniera totala in tutta italia, cancellando tutte le leggi vigenti fino a quel momento.
 
@@ -34,12 +34,12 @@ C'è ancora un altro obbiettivo che la Destra storica vuole raggiungere, ovvero 
 
 ``` mermaid
 	graph TB;
-    A((Destra storica))
-    B[Piemontizzazione]
-    C[Leggi Pica]
-    D[Pareggio di bilancio]
-    E[Tassa sul macinato]
-    F[Unità nazionale]
+    A((Destra storica 👉))
+    B[Piemontizzazione 🏔️]
+    C[Leggi Pica 📚]
+    D[Pareggio di bilancio ⚖️]
+    E[Tassa sul macinato 🌾]
+    F[Unità nazionale 🤝]
 
 
     A --> B
@@ -48,13 +48,13 @@ C'è ancora un altro obbiettivo che la Destra storica vuole raggiungere, ovvero 
 	A --> E
 	A --> F
 ```
-## Convenzione di Settembre
+## Convenzione di Settembre 🚫🥖
 Nel 1862 Giuseppe Garibaldi si muove con il suo esercito verso Roma per conquistarla e renderla capitale (per ora è Torino).
 Quando sta per arrivare Minghetti e il sovrano gli chiesero di fermarsi dato che nel lazio c'è l'esercito francese mandato da Napoleone III per il papa e si voleva evitare lo scontro con la francia.
 
 Nel 1864 viene stipulato un accordo chiamato "Convenzione di Settembre", accordo politico firmato da Minghetti e Napoleone III che prevedeva che l'italia non avrebbe mai tentato di varcare con gli eserciti il confine degli stati pontifici e che la Francia avrebbe dovuto togliere le truppe dal Lazio e a farle rientrare in Francia.
 In questa stessa data la capitale si sposta a Firenze.
-## 3° Guerra di indipendenza
+## 3° Guerra di indipendenza ⚔️
 Nella confederazione degli stati tedeschi (Prussia, Austria, e altri 37 stati) nel 1861 (durante l'unità d'Italia) in Prussia sale al trono Guglielmo I.
 Vuole iniziare una riforma militare in grado di ingrandire e migliorare l'aspetto degli eserciti, quindi ha bisogno che il parlamento di Prussia approvi quelle riforme economiche per riuscire a realizzarla.
 
@@ -68,7 +68,7 @@ Dopo aver sconfitto l'Austria decide di fondare una confederazione a se stante c
 La Prussia e la sua personale alleanza riescono a sconfiggere gli eserciti Francesi e Napoleone III è costretto alla resa.
 La Francia deve inoltre cedere l'Alsazia e la Lorena (dove sono presenti metalli preziosi) alla Prussia e ad ospitare a Versailles una cerimonia di incoronazione riguardante Guglielmo I che viene incoronato Kaiser (imperatore) di Germania.
 Nel 1870-1871 nasce il Primo Reich (impero).
-## Roma capitale
+## Roma capitale 🏰
 Nel 1866 in Italia Garibaldi tenta di entrare nei territori pontifici con il suo esercito infrangendo la Convenzione di Settembre convinto che i Francesi avessero ritirato le truppe, non avvenne nessuno scontro ma entrambe hanno violato l'accordo.
 
 Nel 20 Settembre 1870 l'Italia fece una breccia con un esercito di bersaglieri all'interno di Roma chiamata la "Breccia di Porta Pia" conquistandola.
@@ -85,26 +85,26 @@ Il papa non d'accordo interviene emanando un suo provvedimento chiamato "Non Exp
 
 La maggior parte dei politici italiani era di religione cattolica, quindi si apre un divario tra coloro che seguono le volontà del pontefice e coloro che cercano una mediazione:
 Il "Non Expedit" perde validità e si ritorna alla piena attività politica dello stato italiano.
-## L'Ascesa della Sinistra Storica e i suoi obbiettivi
+## L'Ascesa della Sinistra Storica e i suoi obbiettivi 👈💡
 La politica di Minghetti subisce un colpo d'arresto a causa di alcuni provvedimenti sul funzionamento dei trasporti (dei treni) poichè la cattiva gestione della viabilità fece perdere tanti voti alla Destra Storica.
 Nel 1876 la Destra Storica perde la maggioranza e inizia una nuova epoca politica italiana con la Sinistra Storica con esponente Agostino De Pretis che diventa capo di governo.
 
 La Sinistra Storica ha 4 obbiettivi:
-### Istruzione
+### Istruzione 📚
 Nel 1877 vengono promulgate le "Leggi Coppino" che rendono obbligatoria l'istruzione fino alla seconda elementare inclusa dando un' opportunità ai lavoratori (con le scuole serali) di raggiungere l'alfabetizzazione
-### Riforma elettorale
+### Riforma elettorale 🗳️
 Nel 1882 si prevedeva che l'elettorato attivo scendesse dai 25 ai 21 anni allargando l'elettorato, e si apriva il permesso di votare a tutti coloro che fossero arrivati alla seconda elementare. 
-### Economia
+### Economia 💵
 Nel 1887 Iniziò una politica economica protezionista cioè il mercato è controllato dallo stato, le merci di importazione vengono tassate (attraverso dazi doganali) aumentando il prezzo d'acquisto ma favorendo il "made in italy"
-### Politica Estera
+### Politica Estera 🌎
 Gli estremisti della Sinistra Storica ambiscono alle "terre irredente" cioè quei territori non ancora sottratti all'Austria (Trentino, Friuli Venezia Giulia)
-## Nascita del partito centrale
+## Nascita del partito centrale ☝️
 Cominciano i dissapori tra gli estremisti di Destra (Grandi conservatori, aristocratici, legati al potere della chiesa) e quelli di Sinistra (Radical-democratici ovvero coloro che volevano la democrazia totale dello stato italiano).
 Agostino De Pretis e Minghetti decidono di dare avvio ad una politica interna chiamata "Trasformismo", dove lati moderati di Sinistra e Destra Storica convergono in unico "partito centrale" che si contrappone agli ideologismi estremi di Destra e Sinistra
 
 Con questo nuovo partito centrale nasce nel 1882 un accordo difensivo interno con Germania, Austria e Italia chiamato "Triplice Alleanza"
 Se una delle tre potenze avesse dovuto dichiarare guerra ad un altro stato avrebbe dovuto consultarsi con le altre due alleate.
-## Etiopia
+## Etiopia 🐘
 Il governo dell'italia è in mano alla Sinistra storica con a capo Agostino De Pretis. Si deve a lui una nuova politica coloniale italiana nel nord africa e della triplice alleanza. Non riuscirà mai a concludere questa politica coloniale per causa della sua morte.
 
 Francesco Crispi, il suo successore, la continuò. Faceva parte di una sinistra radicale e democratica.
@@ -118,7 +118,7 @@ Francesco Crispi porterà la guerra in africa ad Adua nel 1896 facendo perdere l
 ::: info ℹ INFO
 Gli argomenti a seguito probabilmente non saranno presenti nella verifica
 :::
-## La nuova politica
+## La nuova politica 🩸
 Nel 1897 il governo viene quindi affidato al marchese Rudinì che dovette affrontare delle pessime condizioni economiche.
 Uno dei suoi collaboratori chiamato Sidney Sonnino nello stesso anno scriverà un articolo intitolato "Torniamo allo Statuto" che teorizzava che il potere esecutivo tornasse nelle mani del sovrano.
 
