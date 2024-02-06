@@ -1,7 +1,3 @@
-::: warning ⚠ ATTENZIONE
-Questi appunti non sono completi, manca una parte sostanziale ancora da stilare.
-:::
-
 # 3° Guerra di indipendenza
 ## Introduzione
 17 Marzo 1861 Viene ufficializzato il nuovo stato italiano (Il regno di italia), guidato da Vittoio Emanuele II.
@@ -101,4 +97,24 @@ Portò quindi avanti una politica economica (tasse, trbuti, etc...) e una politi
 Nel 1891 il governo Crispi cade per poi ritornare nel 1893.
 Durante questo periodo il governo viene affidato a Giovanni Giolitti, che imposta una riforma economica ma non fa in tempo ad applicarla perchè venne coinvolto nello scandalo della banca romana. Vennero scoperti dei traffici economici illegali della banca romana fatti da molti politici tra cui Giovanni Giolitti.
 
-Francesco Crispi porterà la guerra in africa facendo perdere l'italia nella guerra di Etiopia, facendo cadere dinuovo il governo.
+Francesco Crispi porterà la guerra in africa ad Adua nel 1896 facendo perdere l'italia nella guerra di Etiopia, il governo quindi cade dinuovo.
+## La nuova politica
+::: info ℹ INFO
+Gli argomenti dopo questo punto probabilmente non saranno presenti nella verifica
+:::
+Nel 1897 il governo viene quindi affidato al marchese Rudinì che dovette affrontare delle pessime condizioni economiche.
+Uno dei suoi collaboratori chiamato Sidney Sonnino nello stesso anno scriverà un articolo intitolato "Torniamo allo Statuto" che teorizzava che il potere esecutivo tornasse nelle mani del sovrano.
+
+La situazione sociale in italia si aggrava attraverso delle rivolte del popolo.
+Il sovrano (ai tempi Umberto I) ordina al generale Beccaris di reprimere queste ribellioni con il sangue.
+Questo fece sgomento non solo nella popolazione stessa ma anche tra i socialisti.
+Rudinì decide quindi di lasciare l'incarico di capo di governo.
+
+Il sovrano quindi sceglie un nuovo capo di governo, ovvero Luigi Pelloux, un generale facente parte dei savoia.
+Luigi Pelloux vuole attuare dei punti politici concordati con il sovrano:
+- Limitazione del ruolo del parlamento
+- Limitazione sulla libertà di opinione e il diritto all'ssociazione
+
+I partiti più radicali si ritrovarono in contrasto tra cui facente parte dei liberari progressisti Giuseppe Zanardelli e Giovanni Giolitti
+Durante una manifestazione a monza il 29 Luglio 1900 il sovrano Umberto I viene assassinato da un anarchico perchè ritenuto responsabilee delle repressioni contro il pubblico.
+In seguito nel 1901 il controllo del governo italiano viene preso da Giovanni Giolitti.
