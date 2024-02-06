@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Visualizza gli ultimi appunti
-      link: /italiano/verifica-2/leopardi
+      link: /storia/verifica-2/3-guerra-indipendenza
     - theme: alt
       text: Tutti gli appunti
       link: /categorie
