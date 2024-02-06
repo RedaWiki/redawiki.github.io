@@ -98,10 +98,10 @@ Nel 1891 il governo Crispi cade per poi ritornare nel 1893.
 Durante questo periodo il governo viene affidato a Giovanni Giolitti, che imposta una riforma economica ma non fa in tempo ad applicarla perchè venne coinvolto nello scandalo della banca romana. Vennero scoperti dei traffici economici illegali della banca romana fatti da molti politici tra cui Giovanni Giolitti.
 
 Francesco Crispi porterà la guerra in africa ad Adua nel 1896 facendo perdere l'italia nella guerra di Etiopia, il governo quindi cade dinuovo.
-## La nuova politica
 ::: info ℹ INFO
-Gli argomenti dopo questo punto probabilmente non saranno presenti nella verifica
+Gli argomenti a seguito probabilmente non saranno presenti nella verifica
 :::
+## La nuova politica
 Nel 1897 il governo viene quindi affidato al marchese Rudinì che dovette affrontare delle pessime condizioni economiche.
 Uno dei suoi collaboratori chiamato Sidney Sonnino nello stesso anno scriverà un articolo intitolato "Torniamo allo Statuto" che teorizzava che il potere esecutivo tornasse nelle mani del sovrano.
 
