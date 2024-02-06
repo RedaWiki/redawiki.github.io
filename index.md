@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Visualizza gli ultimi appunti
-      link: /storia/verifica-2/3-guerra-indipendenza
+      link: /storia/verifica-2/3-guerra-di-indipendenza
     - theme: alt
       text: Tutti gli appunti
       link: /categorie
