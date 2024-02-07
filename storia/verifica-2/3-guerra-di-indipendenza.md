@@ -34,18 +34,18 @@ C'è ancora un altro obbiettivo che la Destra storica vuole raggiungere, ovvero 
 
 ``` mermaid
 	graph TB;
-    A((Destra storica 👉))
-    B[Piemontizzazione 🏔️]
-    C[Leggi Pica 📚]
-    D[Pareggio di bilancio ⚖️]
-    E[Tassa sul macinato 🌾]
-    F[Unità nazionale 🤝]
+    A(("Destra storica 👉"))
+    B["Piemontizzazione 🏔️"]
+    C["Leggi Pica 📚"]
+    D["Pareggio di bilancio ⚖️"]
+    E["Tassa sul macinato 🌾"]
+    F["Unità nazionale 🤝"]
 
 
     A --> B
 	A --> C
 	A --> D
-	A --> E
+	D --> E
 	A --> F
 ```
 ## Convenzione di Settembre 🚫🥖
@@ -105,16 +105,16 @@ Agostino De Pretis e Minghetti decidono di dare avvio ad una politica interna ch
 Con questo nuovo partito centrale nasce nel 1882 un accordo difensivo interno con Germania, Austria e Italia chiamato "Triplice Alleanza"
 Se una delle tre potenze avesse dovuto dichiarare guerra ad un altro stato avrebbe dovuto consultarsi con le altre due alleate.
 ## Etiopia 🐘
-Il governo dell'italia è in mano alla Sinistra storica con a capo Agostino De Pretis. Si deve a lui una nuova politica coloniale italiana nel nord africa e della triplice alleanza. Non riuscirà mai a concludere questa politica coloniale per causa della sua morte.
+Il governo dell'Italia è in mano alla Sinistra storica con a capo Agostino De Pretis. Si deve a lui una nuova politica coloniale italiana nel nord africa e della triplice alleanza. Non riuscirà mai a concludere questa politica coloniale a causa della sua morte.
 
 Francesco Crispi, il suo successore, la continuò. Faceva parte di una sinistra radicale e democratica.
-Grazie ai suoi precedenti storici era anche stimato dal mondo dell'estrema sinistra per il suo passato garibaldino, non solo era anche stimato dal centro sinistra (banchieri, economi, etc...).
-Portò quindi avanti una politica economica (tasse, trbuti, etc...) e una politica militare(aumentò le spese necessarie in campo militare) che però risultò troppo dispendiosa, perdendo molti elettori.
+Grazie ai suoi precedenti storici era stimato dal mondo dell'estrema sinistra per il suo passato garibaldino ma anche dal centro sinistra (banchieri, economi, etc...).
+Portò quindi avanti una politica economica (tasse, trbuti, etc...) e una politica militare (aumentò le spese necessarie in campo militare) che però risultò troppo dispendiosa, perdendo molti elettori.
 
 Nel 1891 il governo Crispi cade per poi ritornare nel 1893.
 Durante questo periodo il governo viene affidato a Giovanni Giolitti, che imposta una riforma economica ma non fa in tempo ad applicarla perchè venne coinvolto nello scandalo della banca romana. Vennero scoperti dei traffici economici illegali della banca romana fatti da molti politici tra cui Giovanni Giolitti.
 
-Francesco Crispi porterà la guerra in africa ad Adua nel 1896 facendo perdere l'italia nella guerra di Etiopia, il governo quindi cade dinuovo.
+Francesco Crispi porterà la guerra in Africa ad Adua nel 1896 facendo perdere l'italia nella guerra di Etiopia, il governo quindi cade dinuovo.
 ::: info ℹ INFO
 Gli argomenti a seguito probabilmente non saranno presenti nella verifica
 :::
