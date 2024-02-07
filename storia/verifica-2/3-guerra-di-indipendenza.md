@@ -1,4 +1,4 @@
-# 3° Guerra di indipendenza
+# 3° Guerra di indipendenza ⚔️
 ## Introduzione 🚀
 17 Marzo 1861 Viene ufficializzato il nuovo stato italiano (Il regno di italia), guidato da Vittoio Emanuele II.
 E' una monarchia parlamentare.
