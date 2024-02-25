@@ -33,7 +33,7 @@ export default withMermaid({
             collapsed: false,
             items: [
             { text: 'Appunti di italiano 📚', link: '/italiano/verifica-2/leopardi' },
-            { text: 'Appunti di storia 📜', link: '/storia/verifica-2/3-guerra-di-indipendenza' }
+            { text: 'Appunti di storia 📜', link: '/storia/verifica-3/1-guerra-mondiale' }
             ]
         } 
     ],
@@ -53,7 +53,15 @@ export default withMermaid({
           items: [
             { text: '3° Guerra di indipendenza ⚔️', link: '/storia/verifica-2/3-guerra-di-indipendenza' },
           ]
-        } 
+        },
+
+        {
+            text: 'Verifica 3 ✏️',
+            collapsed: false,
+            items: [
+              { text: '1° Guerra mondiale 🌎', link: '/storia/verifica-3/1-guerra-mondiale' },
+            ]
+          }
       ]
     },
 
