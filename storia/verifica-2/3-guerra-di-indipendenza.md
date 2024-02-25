@@ -116,7 +116,7 @@ Durante questo periodo il governo viene affidato a Giovanni Giolitti, che impost
 
 Francesco Crispi porterà la guerra in Africa ad Adua nel 1896 facendo perdere l'italia nella guerra di Etiopia, il governo quindi cade dinuovo.
 ::: info ℹ INFO
-Gli argomenti a seguito probabilmente non saranno presenti nella verifica
+Gli argomenti di seguito probabilmente non saranno presenti nella verifica
 :::
 ## La nuova politica 🩸
 Nel 1897 il governo viene quindi affidato al marchese Rudinì che dovette affrontare delle pessime condizioni economiche.
