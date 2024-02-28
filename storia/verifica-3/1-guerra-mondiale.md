@@ -72,7 +72,7 @@ Alle 3:00 il cancelliere tedesco chiama Vienna e rimprovera gli Austriaci di coi
 
 Il 30 Luglio 1914 in Germania c'è una divisione tra i politici, che vogliono evitare la guerra, e i vertici militari, che invece vogliono iniziare la guerra.
 Il generale Von Molke (Tedesco) chiama il comandante dell'esercito Kondrad (Austrico) chiedendo di mobilitare l'esercito.
-
+## L'inizio dei conflitti 💣
 Il 31 Luglio 1914 La Germania manda un Ultimatum alla Russia dicendo di ritirare l'ordine di Mobilitazione altrimenti si andrà tutti in guerra.
 
 Il 1 Agosto 1914 Il ministro Grey tiene un discorso in parlamento dove definisce la Germania un pericolo più grande di Napoleone per tutta Europa.
@@ -82,21 +82,20 @@ I parlamentari votano e Grey finisce in minoranza.
 Molti ministri tra cui Grey si dimettono.
 
 Alle ore 16:00 Del 1° Agosto la Germania dichiara guerra alla Russia perchè quest'ultima non aveva cessato la mobilitazione.
-Alle ore 17:00 arriva un telegramma in Germania da Londra dove viene segnalato un incontro tra l'ambasciatore tedesco e il ministro Grey per un possibile accordo.
+Alle ore 17:00 arriva un telegramma in Germania da Londra dove viene segnalato un incontro tra l'ambasciatore tedesco (Karl Max von Lichnowsky) e il ministro Grey per un possibile accordo:
+se la Germania rinunciasse ad attaccare la Francia, l'Inghilterra non entrerebbe in guerra proprio perchè la Germania non avrebbe avuto necessità di passare per il Belgio.
 
-::: warning ⚠️ ATTENZIONE
-La parte a seguire non è ancora stata corretta e contiene errori grammaticali e imperfezioni.
+::: danger ☢️ PERICOLO
+Qui viene menzionata la Triplice Intesa che però non abbiamo mai affrontato durante le lezioni: da ricordare comunque che è l'alleanza tra le tre potenze europee: Russia, Francia e Inghilterra e a differenza
+della triplice alleanza non è un accordo difensivo ma principalmente è "anti-tedesco" senza il vincolo di dover intervenire l'una con l'altra in caso di minaccia
 :::
 
-Se la Germania rinunciasse ad attaccare la Francia l'Inghilterra non sarebbe entrata in guerra, proprio perchè non sarebbe dovuta passare per il Belgio.
-La Germania però aveva già mobilitato gli eserciti.
-
-Il generale Von Molke viene richiamato a palazzo per annullare il piano e spostare gli eserciti verso il fronte orientale ma senza successo.
+Il generale di tutti gli eserci tedeschi Von Molke viene richiamato a palazzo dal Kaiser Guglielmo e dal cancelliere tedesco per annullare il piano e spostare gli eserciti verso il fronte orientale ma cioè non fu possibile perchè la Germania aveva già mobilitato gli eserciti.
 La stessa sera la Germania occupa Lussemburgo.
 
 2 Agosto 1914 La Germania manda un ultimatum al Belgio, dettando delle condizioni per l'occupazione in Belgio.
-In quello stesso giorno Grey riesce a strappare al parlamento l'ordine della mobilitazione dell'esercito Britannico.
+In quello stesso giorno Grey riesce a strappare al parlamento Inglese l'ordine della mobilitazione dell'esercito Britannico.
 
-3 Agosto 1914 Grey ottiene il permesso per mandare un Ultimatum alla Germania.
+3 Agosto 1914 Grey ottiene il permesso per mandare un Ultimatum alla Germania attraverso l'ambasciatore tedesco che però accusa l'Inghilterra di aver tradito una nazione "sorella" per il loro legame culturale linguistico.
 
 4 Agosto 1914 La Germania invade il Belgio.
